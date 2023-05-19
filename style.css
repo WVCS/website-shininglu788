@@ -1,3 +1,39 @@
 body {
+h2 {
+  color: #B30530;
+  text-align: center;
+}
+h5 {
+  text-align: center;
+}
 
+body {
+  background-color: antiquewhite;
+}
+
+h2:hover
+  
+img {
+  
+}
+
+img:hover {
+  width: 700px
+}
+nav {
+  list-style-type: none;
+  background-color: green;
+  position: fixed;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  padding: 10px;
+}
+a{
+  color: white;
+  text-decoration: none; 
+}
+li:hover{
+  background-color: pink;
+}
 }
